@@ -1,0 +1,44 @@
+.main{
+    width: 550px;
+    height: 550px;
+    background-color: rgba(100, 100, 207, 0.822);
+    color:white;
+    margin: 0 auto;
+    padding: 100 auto;  
+    margin-bottom: 100px;
+    text-align: center;
+    border:1px solid   rgba(100, 100, 207, 0.822);
+    border-radius: 5px;
+}
+
+.list h1{
+font-family:Cookie,cursive;
+font-size: 60px;
+font-weight: 400;
+}
+
+ul li{
+    font-family:Cookie,cursive;
+    font-size:20px;
+    background-color: rgb(236, 18, 120);
+    padding: 20px 40px;
+    margin-bottom:8px;
+    width: 400px;
+    float: left;
+   list-style:none;
+}
+
+ul li.active{
+    background-color: rgb(45, 216, 145);
+}
+span{
+    float: right;
+}
+.total{
+font-size:26px;
+text-align: center;
+
+}
+hr{
+    width: 400px;
+}
