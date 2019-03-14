@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "parcel project5.html"
+    "build": "parcel build proect5.html"
   },
   "dependencies": {
     "vue": "^2.6.8"
